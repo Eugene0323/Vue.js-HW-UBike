@@ -1,5 +1,5 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+題目:台北市 Youbike 查詢
+1. 畫面一開始就去撈取台北市ubike資訊，並透過ubikeItem做元件的呈現
+2. 搜尋列表可使用enter或搜尋按鈕去做資訊的篩選
+3. 新增favorite button 可新增至我的最愛列表、local storage
+4. 側邊欄位可讀取localstorage 我的最愛列表或是刪除不需要的內容
